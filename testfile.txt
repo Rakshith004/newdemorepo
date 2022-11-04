@@ -6,6 +6,7 @@ welcome to git class....
 {
 waiting for the class
 }
+<<<<<<< HEAD
 hi
 1
 2
@@ -13,4 +14,6 @@ hi
 4
 5
 6
+=======
+>>>>>>> e9af8e931c739ba552cd06814b2e922b48143058
 
